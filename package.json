@@ -1,0 +1,12 @@
+{
+  "name": "ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "escodegen": "*",
+    "esprima": "*",
+    "sourcemap-to-ast": "*",
+    "uglify-js": "*"
+  }
+}
